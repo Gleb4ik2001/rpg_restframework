@@ -13,7 +13,6 @@
         <li>http://localhost:8000/game_regimes/</li>
         <li>http://localhost:8000/characters/</li>
         <li>http://localhost:8000/maps/</li>
-
     </ol>
     <h3 style="text-align: center;">Allowed methods:</h3>
     <ol>
